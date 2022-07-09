@@ -15,7 +15,7 @@ h1 align="center">Greetings 👋, I'm Bohdan</h1>
 
 - ⚡ Fun fact: **To organize and write code, firstly I need to have a coffee ☕**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/bohdan-vakaliuk-48bab1192/</h3>
 <p align="left">
 </p>
 
