@@ -1,5 +1,5 @@
 h1 align="center">Greetings 👋, I'm Bohdan</h1>
-<h3 align="center">**A diligent student from KPI**</h3>
+<h3 align="center">A diligent student from KPI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whyshevy&label=Profile%20views&color=0e75b6&style=flat" alt="whyshevy" /> </p>
 
