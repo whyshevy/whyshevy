@@ -3,8 +3,6 @@ h1 align="center">Greetings 👋, I'm Bohdan</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whyshevy&label=Profile%20views&color=0e75b6&style=flat" alt="whyshevy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whyshevy" alt="whyshevy" /></a> </p>
-
 - 🔭 I’m currently working on [meta-clicker](https://github.com/whyshevy/meta-clicker)
 
 - 🌱 I’m currently learning **JavaScript language and Spring Framework for Java**
