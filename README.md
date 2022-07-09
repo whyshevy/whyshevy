@@ -1,19 +1,19 @@
 h1 align="center">Greetings 👋, I'm Bohdan</h1>
-<h3 align="center">A diligent student from KPI</h3>
+<h3 align="center">**A diligent student from KPI**</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whyshevy&label=Profile%20views&color=0e75b6&style=flat" alt="whyshevy" /> </p>
 
-- 🔭 I’m currently working on [meta-clicker](https://github.com/whyshevy/meta-clicker)
+- 🔭 I’m currently working on: [meta-clicker](https://github.com/whyshevy/meta-clicker)
 
-- 🌱 I’m currently learning **JavaScript language and Spring Framework for Java**
+- 🌱 I’m currently learning: **JavaScript language and Spring Framework for Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/whyshevy?tab=repositories](https://github.com/whyshevy?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/whyshevy?tab=repositories](https://github.com/whyshevy?tab=repositories)
 
-- 💬 Ask me about **Java Core, Python**
+- 💬 Ask me about: **Java Core, Python**
 
-- 📫 How to reach me **bvakaluk@gmail.com**
+- 📫 How to reach me: **bvakaluk@gmail.com**
 
-- ⚡ Fun fact **To organize and write code, firstly I need to have a coffee ☕**
+- ⚡ Fun fact: **To organize and write code, firstly I need to have a coffee ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
