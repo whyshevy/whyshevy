@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋, I'm Bohdan</h1>
-<h3 align="center">A diligent student from KPI</h3>
+<h3 align="center">In hope to be Graduated from Kyiv Polytechnical Institute</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whyshevy&label=Profile%20views&color=0e75b6&style=flat" alt="whyshevy" /> </p>
 
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: **To organize and write code, firstly I need to have a coffee ☕**
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/bohdan-vakaliuk-48bab1192/</h3>
+<h3 align="left">Contact with me: https://www.linkedin.com/in/bohdan-vakaliuk-48bab1192/</h3>
 <p align="left">
 </p>
 
