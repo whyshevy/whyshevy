@@ -1,19 +1,17 @@
 <h1 align="center">Greetings 👋, I'm Bohdan</h1>
-<h3 align="center">In hope to be Graduated from Kyiv Polytechnical Institute</h3>
+<h3 align="center">Just graduated from Kyiv Polytechnical Institute</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whyshevy&label=Profile%20views&color=0e75b6&style=flat" alt="whyshevy" /> </p>
 
-- 🔭 I’m currently working on: [meta-clicker](https://github.com/whyshevy/meta-clicker)
+- 🔭 I’m currently working on: [surveys_release]([https://github.com/whyshevy/surveys_release)
 
-- 🌱 I’m currently learning: **JavaScript language and Spring Framework for Java**
+- 🌱 I’m currently learning: **C# language and ASP.NET **
 
 - 👨‍💻 All of my projects are available at: [https://github.com/whyshevy?tab=repositories](https://github.com/whyshevy?tab=repositories)
 
-- 💬 Ask me about: **Java Core, Python**
+- 💬 Ask me about: **C# Core, Javascript, Java, Python**
 
 - 📫 How to reach me: **bvakaluk@gmail.com**
-
-- ⚡ Fun fact: **To organize and write code, firstly I need to have a coffee ☕**
 
 <h3 align="left">Contact with me: https://www.linkedin.com/in/bohdan-vakaliuk-48bab1192/</h3>
 <p align="left">
