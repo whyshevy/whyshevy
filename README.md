@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whyshevy&label=Profile%20views&color=0e75b6&style=flat" alt="whyshevy" /> </p>
 
-- 🔭 I’m currently working on: [surveys_release]((https://github.com/whyshevy/surveys_release))
+- 🔭 I’m currently working on: [surveys_release](https://github.com/whyshevy/surveys_release)
 
 - 🌱 I’m currently learning: **C# language and ASP.NET **
 
